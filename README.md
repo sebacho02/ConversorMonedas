@@ -1,3 +1,3 @@
-Conversor de Monedas
+<em>Conversor de Monedas</em>
 
 Este proyecto consiste en un conversor de monedas que permite a los usuarios convertir cantidades de una moneda a otra de manera rápida y sencilla. Utiliza la API de ExchangeRate-API para obtener tasas de cambio en tiempo real y ofrece una amplia gama de opciones de conversión entre diferentes monedas del mundo. La interfaz de usuario intuitiva permite a los usuarios seleccionar las monedas de origen y destino, ingresar la cantidad a convertir y obtener el resultado de la conversión de forma instantánea. Además, el sistema registra todas las conversiones realizadas, lo que proporciona un historial detallado de las transacciones.
