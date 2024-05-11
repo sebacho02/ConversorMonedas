@@ -41,6 +41,7 @@ Este proyecto consiste en un conversor de monedas que permite a los usuarios con
 -  `Funcionalidad 8`: Flexibilidad y Personalización: Permite a los usuarios ajustar las cantidades y las opciones de moneda según sus necesidades individuales.
 
 <h3 align="center"> Tecnologías utilizadas </h3>
+
 - `GitHub`
 
 - `Java`
