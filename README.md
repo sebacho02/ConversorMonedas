@@ -10,7 +10,7 @@
   
 * [Tecnologías utilizadas]
 
-*[Personas-Desarrolladores del Proyecto]
+* [Persona-Desarrolladora del Proyecto]
 
 
 
@@ -23,7 +23,7 @@ Este proyecto consiste en un conversor de monedas que permite a los usuarios con
 
 <h2 align="center"> Proyecto finalizado, con opción de mejoras </h2>
 
-:hamer:Funcionalidades del Conversor de Monedas:
+<h4 align="center">Funcionalidades del Conversor de Monedas:</h4>
 - `Funcionalidad 1`:Conversión de Monedas: Permite a los usuarios convertir cantidades de una moneda a otra utilizando tasas de cambio en tiempo real.
 
 - `Funcionalidad 2`: Selección de Monedas: Ofrece una amplia variedad de opciones de moneda, permitiendo a los usuarios seleccionar tanto la moneda de origen como la moneda de destino de forma flexible.
